@@ -1,0 +1,56 @@
+Recipe,Ingredient,Cuisine,Diet
+Paneer Butter Masala,Paneer,Indian,Vegetarian
+Paneer Butter Masala,Butter,Indian,Vegetarian
+Paneer Butter Masala,Tomato,Indian,Vegetarian
+Paneer Butter Masala,Onion,Indian,Vegetarian
+Paneer Butter Masala,Cream,Indian,Vegetarian
+Fish Curry,Fish,Indian,High Protein
+Fish Curry,Coconut Milk,Indian,High Protein
+Fish Curry,Garlic,Indian,High Protein
+Fish Curry,Onion,Indian,High Protein
+Fish Curry,Oil,Indian,High Protein
+Spring Rolls,Cabbage,Chinese,Vegan
+Spring Rolls,Carrot,Chinese,Vegan
+Spring Rolls,Flour,Chinese,Vegan
+Spring Rolls,Oil,Chinese,Vegan
+Spring Rolls,Pepper,Chinese,Vegan
+Veg Momos,Flour,Chinese,Vegan
+Veg Momos,Cabbage,Chinese,Vegan
+Veg Momos,Carrot,Chinese,Vegan
+Veg Momos,Onion,Chinese,Vegan
+Veg Momos,Ginger,Chinese,Vegan
+Mac and Cheese,Pasta,Italian,Vegetarian
+Mac and Cheese,Cheese,Italian,Vegetarian
+Mac and Cheese,Butter,Italian,Vegetarian
+Mac and Cheese,Milk,Italian,Vegetarian
+Mac and Cheese,Pepper,Italian,Vegetarian
+Garlic Bread,Bread,Italian,Vegetarian
+Garlic Bread,Garlic,Italian,Vegetarian
+Garlic Bread,Butter,Italian,Vegetarian
+Garlic Bread,Cheese,Italian,Vegetarian
+Garlic Bread,Oregano,Italian,Vegetarian
+Chicken Tikka,Chicken,Indian,High Protein
+Chicken Tikka,Yogurt,Indian,High Protein
+Chicken Tikka,Garlic,Indian,High Protein
+Chicken Tikka,Ginger,Indian,High Protein
+Chicken Tikka,Pepper,Indian,High Protein
+Caesar Salad,Lettuce,Italian,Vegetarian
+Caesar Salad,Cheese,Italian,Vegetarian
+Caesar Salad,Bread,Italian,Vegetarian
+Caesar Salad,Pepper,Italian,Vegetarian
+Caesar Salad,Olive Oil,Italian,Vegetarian
+Mushroom Soup,Mushroom,Italian,Vegan
+Mushroom Soup,Garlic,Italian,Vegan
+Mushroom Soup,Onion,Italian,Vegan
+Mushroom Soup,Pepper,Italian,Vegan
+Mushroom Soup,Butter,Italian,Vegan
+Egg Fried Rice,Rice,Chinese,High Protein
+Egg Fried Rice,Egg,Chinese,High Protein
+Egg Fried Rice,Onion,Chinese,High Protein
+Egg Fried Rice,Garlic,Chinese,High Protein
+Egg Fried Rice,Oil,Chinese,High Protein
+Veg Pizza,Cheese,Italian,Vegetarian
+Veg Pizza,Tomato,Italian,Vegetarian
+Veg Pizza,Capsicum,Italian,Vegetarian
+Veg Pizza,Olives,Italian,Vegetarian
+Veg Pizza,Flour,Italian,Vegetarian
