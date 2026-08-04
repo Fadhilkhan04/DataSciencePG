@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 
 driver = GraphDatabase.driver(
     "neo4j://127.0.0.1:7687",
-    auth=("neo4j","2026165038")
+    auth=("neo4j","")
 )
 
 users = [

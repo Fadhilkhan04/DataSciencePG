@@ -3,7 +3,7 @@ import pandas as pd
 
 URI = "neo4j://127.0.0.1:7687"
 USERNAME = "neo4j"
-PASSWORD = "2026165038"     
+PASSWORD = ""     
 
 driver = GraphDatabase.driver(
     URI,
